@@ -1,0 +1,29 @@
+# Conditional Statements Assignment - C++
+
+This repository contains C++ programming exercises on different types of **Conditional Statements**.
+
+## Contents
+
+| File                    | Topic                  | Exercises |
+|-------------------------|------------------------|-----------|
+| `if-statement.docx`     | Simple If Statement    | 7         |
+| `if-else.docx`          | If-Else Statement      | 7         |
+| `if-else-if.docx`       | If-Else-If Ladder      | 7         |
+| `nested-if.docx`        | Nested If              | 7         |
+| `switch.docx`           | Switch Statement       | 7         |
+| `nested-switch.docx`    | Nested Switch          | 7         |
+
+## How to Use
+
+1. Download any `.docx` file.
+2. Open it in Microsoft Word or Google Docs.
+3. Each document contains the problem statement and complete C++ code for 7 exercises.
+
+## Topics Covered
+
+- If Statement
+- If-Else Statement
+- If-Else-If Ladder
+- Nested If
+- Switch Statement
+- Nested Switch
